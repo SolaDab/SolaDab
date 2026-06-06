@@ -4,7 +4,7 @@ Use these values for the public profile:
 
 ```text
 Name: Soloadab
-Bio: Beginner indie dev building monetizable apps, bots, and tools. Free versions here; paid releases and Telegram store coming soon.
+Bio: Beginner indie dev building monetizable apps, bots, and tools. Free versions here; paid releases on Lemon Squeezy, Gumroad, and itch.io. Telegram store for CIS.
 Company:
 Location:
 Website:

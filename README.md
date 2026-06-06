@@ -9,7 +9,7 @@
   ·
   <a href="https://github.com/SolaDab">GitHub</a>
   ·
-  Telegram store coming soon
+  Paid releases: Lemon Squeezy, Gumroad, itch.io · Telegram store for CIS
 </p>
 
 ---
@@ -24,7 +24,7 @@ I am a beginner indie developer focused on practical software that can grow into
 - small SaaS-style products;
 - free versions of paid apps for public testing and discovery.
 
-My GitHub repositories will usually contain free editions, demos, open builds, or public parts of my products. Paid versions, extended features, and commercial releases will be linked from each project's README.
+My GitHub repositories will usually contain free editions, demos, open builds, or public parts of my products. Paid versions, extended features, and commercial releases will be linked from each project's README and distributed through Lemon Squeezy, Gumroad, and itch.io.
 
 For CIS users, I plan to provide a Telegram bot where paid apps can be purchased in one place.
 
@@ -33,7 +33,7 @@ For CIS users, I plan to provide a Telegram bot where paid apps can be purchased
 - Building small products fast.
 - Improving design, UX, packaging, and monetization.
 - Publishing free versions on GitHub.
-- Preparing paid releases for marketplaces and Telegram-based sales.
+- Preparing paid releases for Lemon Squeezy, Gumroad, itch.io, and Telegram-based CIS sales.
 
 ## Tech direction
 
