@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Soloadab</h1>
+﻿<h1 align="center">Hi, I'm SolaDab</h1>
 
 <p align="center">
   Indie developer building small, useful apps, automation tools, bots, and digital products.
@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/SolaDab?tab=repositories">Projects</a>
-  ·
+  В·
   <a href="https://github.com/SolaDab">GitHub</a>
-  ·
-  Paid releases: Lemon Squeezy, Gumroad, itch.io · Telegram store for CIS
+  В·
+  Paid releases: Lemon Squeezy, Gumroad, itch.io В· Telegram store for CIS
 </p>
 
 ---
@@ -62,3 +62,4 @@ Each serious project will include:
 <p align="center">
   Building in public. Learning fast. Shipping useful products.
 </p>
+
